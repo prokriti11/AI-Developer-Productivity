@@ -1,4 +1,4 @@
-# AI Developer Productivity Monitor 🧠
+# AI Developer Productivity Dashboard 🧠
 
 A comprehensive full-stack analytics platform that monitors and analyzes developer productivity in the era of AI-assisted coding. Transform raw behavioral data into actionable insights with advanced ETL pipelines, interactive dashboards, and intelligent metrics.
 
